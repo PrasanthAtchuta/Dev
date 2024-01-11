@@ -1,2 +1,2 @@
-console.log("PRasanth");
+console.log("prasanth");
 console.log("Devansh");
